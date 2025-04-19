@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niftyspace
 - 👀 I’m working to be a Data Scientist
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently studying BSc Computer Science (Data Science) from University of London
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 you can reach out to me on my email fatimafurqan654@gmail.com
